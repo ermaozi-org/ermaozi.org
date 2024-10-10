@@ -12,7 +12,7 @@ export default defineUserConfig({
   theme: plumeTheme({
     logo: '/images/logo.svg',
     home: '/',
-    hostname: 'https://www.ermao.net',
+    hostname: 'https://www.ermaozi.org',
     footer: { message: "© 2024 二猫子 📧 <a href='mailto:admin@ermao.net'>admin@ermao.net</a>" },
     navbar: [
       { text: '二猫子博客', link: '/blog/' },
